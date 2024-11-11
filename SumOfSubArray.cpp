@@ -50,6 +50,6 @@ int main() {
     Solution sol;
     vector<int> arr = {3, 1, 2, 4};
     int result = sol.sumSubarrayMins(arr);
-    cout << "Output: " << result << endl;  
+    cout << "Output: " << result << endl;
     return 0;
 }
